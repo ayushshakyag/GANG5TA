@@ -16,5 +16,5 @@ def time():
 label =Label(root,font=("ds-digital",80),background = "black" , foreground = "orange")
 label.pack(anchor = "center")
 time()
-date()
+#date()
 mainloop()
